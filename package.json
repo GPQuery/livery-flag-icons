@@ -1,0 +1,22 @@
+{
+  "name": "gpquery-livery-flags",
+  "version": "0.14.0",
+  "description": "A collection of flag icons and images for GPQuery\\Livery",
+  "author": {
+    "name": "Jonathan Ho",
+    "email": "joho@joho.io",
+    "web": "http://joho.io"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gpquery/livery-flags.git"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/gpquery/livery-flags",
+  "bugs": {
+    "url": "https://github.com/gpquery/livery-flags/issues"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
