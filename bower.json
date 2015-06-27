@@ -1,10 +1,14 @@
 {
-  "name": "flag-icon",
-  "homepage": "https://github.com/stevenrskelton/flag-icon",
-  "description": "Polymer Web Component for SVG and PNG icons of country, state, province and other flags",
-  "main": "flag-icon.html",
+  "name": "livery-flags",
+  "version": "0.14.0",
+  "homepage": "https://github.com/gpquery/livery-flags",
+  "description": "A collection of flag icons and images for GPQuery\\Livery",
   "authors": [
-    "Steven Skelton"
+    "Jonathan Ho <joho@joho.io>"
+  ],
+  "main": [
+    "gpquery-livery-flags.js",
+    "gpquery-livery-flags.css"
   ],
   "license": "MIT",
   "ignore": [
@@ -15,31 +19,10 @@
     "tests"
   ],
   "keywords": [
-    "web-component",
-    "web-components",
-    "polymer",
-    "geography",
-    "countries",
-    "world",
-    "state",
-    "provincial",
-    "territory",
-    "icon",
-    "svg",
-    "flag",
-    "maritime",
-    "nascar",
-    "indycar",
-    "racing",
-    "australia",
-    "brazil",
-    "canada",
-    "germany",
-    "spain",
-    "russia",
-    "united states"
-  ],
-  "dependencies": {
-    "polymer": "Polymer/polymer#^0.5.5"
-  }
+      "icons",
+      "flags",
+      "racing",
+      "gpquery",
+      "svg"
+  ]
 }

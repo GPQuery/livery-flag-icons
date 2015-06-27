@@ -1,6 +1,16 @@
 # GPQuery/livery-flags
 
-> A collection of various flag icons and images for the GPQuery\Livery component project
+> A collection of flag icons and images for GPQuery\Livery
+
+## Overview
+
+* Icon Fonts
+* CSS Sprites
+* SVG Stacks
+
+## Contributing
+
+
 
 ## Overview
 

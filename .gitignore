@@ -1,2 +1,8 @@
+.DS_Store
 bower_components
 .directory
+.sass-cache
+node_modules
+.tmp
+dist
+*ignore*

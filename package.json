@@ -1,0 +1,41 @@
+{
+  "name": "gpquery-livery-flags",
+  "version": "0.14.0",
+  "description": "A collection of flag icons and images for GPQuery\\Livery",
+  "author": {
+    "name": "Jonathan Ho",
+    "email": "joho@joho.io",
+    "web": "http://joho.io"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gpquery/livery-flags.git"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/gpquery/livery-flags",
+  "bugs": {
+    "url": "https://github.com/gpquery/livery-flags/issues"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "del": "^1.2.0",
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^2.3.1",
+    "gulp-csso": "^1.0.0",
+    "gulp-filter": "^2.0.2",
+    "gulp-flatten": "0.0.4",
+    "gulp-load-plugins": "^0.10.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-replace": "^0.5.3",
+    "gulp-sass": "^2.0.1",
+    "gulp-size": "^1.2.1",
+    "gulp-sourcemaps": "^1.5.2",
+    "gulp-svg-sprite": "^1.1.2",
+    "gulp-svgmin": "^1.1.2",
+    "gulp-util": "^3.0.5",
+    "vinyl": "^0.4.6",
+    "wrench": "^1.5.8"
+  }
+}
