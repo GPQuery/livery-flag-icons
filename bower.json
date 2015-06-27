@@ -1,7 +1,7 @@
 {
-  "name": "livery-flags",
-  "version": "0.14.0",
-  "homepage": "https://github.com/gpquery/livery-flags",
+  "name": "livery-icon-flags",
+  "version": "0.1.0",
+  "homepage": "https://github.com/gpquery/livery-icon-flags",
   "description": "A collection of flag icons and images for GPQuery\\Livery",
   "authors": [
     "Jonathan Ho <joho@joho.io>"
