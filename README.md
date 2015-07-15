@@ -1,14 +1,7 @@
 # GPQuery/livery-flags
 
-> A collection of flag icons and images for GPQuery\Livery
+> A collection of flag icons for use with GPQuery\Livery via the Angular-Material `$mdIconProvider` service. 
 
-## Overview
-
-* Icon Fonts
-* CSS Sprites
-* SVG Stacks
-
-## Contributing
 
 
 

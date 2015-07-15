@@ -2,12 +2,20 @@
   "name": "livery-flags",
   "version": "0.2.0",
   "homepage": "https://github.com/gpquery/livery-flags",
-  "description": "A collection of flag icons and images for GPQuery\\Livery",
-  "authors": [
-    "Jonathan Ho <joho@joho.io>",
-    "Panayiotis Lipiridis <lipiridis@gmail.com>",
-    "Steven Skelton"
-  ],
+  "description": "A collection of flag icons and images for GPQuery-Livery.",
+  "authors": [{
+    "name": "Jonathan Ho",
+    "email": "joho@joho.io"
+  }, {
+    "name": "Panayiotis Lipiridis",
+    "email": "lipiridis@gmail.com"
+  }, {
+    "name": "Mark James",
+    "email": "mjames@gmail.com"
+  }, {
+    "name": "Steven Skelton",
+    "email": ""  
+  }],
   "main": [
     "gpquery-livery-flags.js",
     "gpquery-livery-flags.css"
@@ -21,10 +29,10 @@
     "tests"
   ],
   "keywords": [
-      "icons",
-      "flags",
-      "racing",
-      "gpquery",
-      "svg"
+    "icons",
+    "flags",
+    "racing",
+    "gpquery",
+    "svg"
   ]
 }
