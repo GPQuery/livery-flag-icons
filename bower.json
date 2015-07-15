@@ -1,10 +1,12 @@
 {
   "name": "livery-flags",
-  "version": "0.14.0",
+  "version": "0.2.0",
   "homepage": "https://github.com/gpquery/livery-flags",
   "description": "A collection of flag icons and images for GPQuery\\Livery",
   "authors": [
-    "Jonathan Ho <joho@joho.io>"
+    "Jonathan Ho <joho@joho.io>",
+    "Panayiotis Lipiridis <lipiridis@gmail.com>",
+    "Steven Skelton"
   ],
   "main": [
     "gpquery-livery-flags.js",
