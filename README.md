@@ -1,11 +1,47 @@
 # GPQuery/livery-flags
 
-> A collection of flag icons for use with GPQuery\Livery via the Angular-Material `$mdIconProvider` service. 
-
-
-
+A collection of flag icons and images for GPQuery-Livery.
 
 ## Overview
+
+
+## Production
+
+
+### Gulp
+
+ - [`gulp-svg-sprite`](https://github.com/jkphl/gulp-svg-sprite) which wraps [`svg-sprite`](https://github.com/jkphl/svg-sprite)
+ - [`gulp-svg-symbols`](https://github.com/Hiswe/gulp-svg-symbols) creates single SVG and CSS files
+ - [`gulp-iconfont`](https://github.com/nfroidure/gulp-iconfont) produces:
+   - Fonts in `svg`, `ttf`, `eot`, and `woff` formats (see [gulp-svgicons2svgfont](https://github.com/nfroidure/gulp-svgicons2svgfont))
+   - CSS font template (see [`gulp-iconfont-css`](https://github.com/backflip/gulp-iconfont-css))
+ - [`gulp-svgmin`](https://github.com/ben-eb/gulp-svgmin)
+ - [`gulp-svg2png`](https://github.com/akoenig/gulp-svg2png)
+
+### Build
+
+```
+dist/
+
+├── 
+├── 
+├── 
+├── png/
+│  ├── country-1x1/
+│  ├── country-4x3/
+│  ├── maritime/
+│  ├── overlays/
+│  └── racing/
+├── 
+├── 
+│  ├── 
+│  ├── 
+│  ├── 
+│  └──
+├── 
+├── 
+└──
+```
 
 Amongst the variety of flags types and sizes:
 
