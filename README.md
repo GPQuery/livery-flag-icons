@@ -10,13 +10,7 @@ A collection of flag icons and images for GPQuery-Livery.
 
 ### Gulp
 
- - [`gulp-svg-sprite`](https://github.com/jkphl/gulp-svg-sprite) which wraps [`svg-sprite`](https://github.com/jkphl/svg-sprite)
- - [`gulp-svg-symbols`](https://github.com/Hiswe/gulp-svg-symbols) creates single SVG and CSS files
- - [`gulp-iconfont`](https://github.com/nfroidure/gulp-iconfont) produces:
-   - Fonts in `svg`, `ttf`, `eot`, and `woff` formats (see [gulp-svgicons2svgfont](https://github.com/nfroidure/gulp-svgicons2svgfont))
-   - CSS font template (see [`gulp-iconfont-css`](https://github.com/backflip/gulp-iconfont-css))
- - [`gulp-svgmin`](https://github.com/ben-eb/gulp-svgmin)
- - [`gulp-svg2png`](https://github.com/akoenig/gulp-svg2png)
+
 
 ### Build
 
@@ -76,7 +70,7 @@ The standards upon which flag names and codes are based include:
 
 ## Credits
 
-This repository was forked from [stevenrskelton/flag-icon](https://github.com/stevenrskelton/flag-icon), which in turn was based on [lipis/flag-icon-css](https://github.com/lipis/flag-icon/css):
+This repository was forked from [stevenrskelton/flag-icon](https://github.com/stevenrskelton/flag-icon), which in turn was based on [lipis/flag-icon-css](https://github.com/lipis/flag-icon/):
 
 * [Demonstration](http://lipis.github.io/flag-icon-css) of the original CSS vector-based compilation by [lipis]
 * [Demonstration](https://github.com/stevenrskelton/flag-icon/blob/master/README.md) of additional flags, features, and Polymer Web Components library being written by [stevenrskelton](https://github.com/stevenrskelton).
