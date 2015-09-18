@@ -70,7 +70,7 @@ The standards upon which flag names and codes are based include:
 
 ## Credits
 
-This repository was forked from [stevenrskelton/flag-icon](https://github.com/stevenrskelton/flag-icon), which in turn was based on [lipis/flag-icon-css](https://github.com/lipis/flag-icon/):
+This repository was forked from [stevenrskelton/flag-icon](https://github.com/stevenrskelton/flag-icon), which in turn was based on [lipis/flag-icon-css](https://github.com/lipis/flag-icon-css/):
 
 * [Demonstration](http://lipis.github.io/flag-icon-css) of the original CSS vector-based compilation by [lipis]
 * [Demonstration](https://github.com/stevenrskelton/flag-icon/blob/master/README.md) of additional flags, features, and Polymer Web Components library being written by [stevenrskelton](https://github.com/stevenrskelton).
